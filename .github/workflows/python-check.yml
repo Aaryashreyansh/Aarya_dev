@@ -1,0 +1,24 @@
+name: Python starter check
+
+on:
+  push:
+    paths:
+      - '04-Python/**'
+      - '.github/workflows/python-check.yml'
+  pull_request:
+    paths:
+      - '04-Python/**'
+      - '.github/workflows/python-check.yml'
+
+jobs:
+  syntax-check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Compile starter script
+        run: python -m py_compile 04-Python/system_report.py
