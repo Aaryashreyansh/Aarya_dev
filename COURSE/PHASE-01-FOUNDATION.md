@@ -93,3 +93,7 @@ Open a PR, describe the reason for the change, review the diff, respond to feedb
 - Demonstrate the mini-project and explain one problem you solved.
 
 **Proof of work:** `16-Projects/phase-1-foundation/README.md` with goals, commands, screenshots or terminal output, what you learned, and cleanup notes.
+
+
+## Where to learn this phase
+Use the curated links in [Resources Directory](RESOURCES.md): Linux → Ubuntu command-line tutorial and Linux Journey; Networking → Cloudflare DNS, MDN HTTP/HTTPS and OpenSSH manual; Git → Pro Git, GitHub Hello World and GitHub Skills. Prefer official references when commands or product behavior matter.
