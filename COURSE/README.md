@@ -2,6 +2,10 @@
 
 Welcome! This is the main table of contents for a structured, practical DevOps course. Follow the phases in order. Each phase document contains lesson sequences, concepts, lab work, checkpoints and a mini-project.
 
+## Learning resources
+
+Open the [Learning Resources Directory](RESOURCES.md) for curated official documentation, beginner tutorials, interactive practice links and topic-by-topic recommendations across all seven phases.
+
 ## How to study each lesson
 1. **Read:** understand the concept and the reason it exists.
 2. **Explain:** write the idea in your own words in a `notes.md` file.
