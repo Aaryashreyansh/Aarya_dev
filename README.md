@@ -1,7 +1,5 @@
 # Aarya DevOps 🚀
 
-<badge></badge>
-
 ## 🌐 LIVE WEB FIRST · OPEN THE ACADEMY
 
 **[Open Aarya DevOps Academy](https://aaryashreyansh.github.io/Aarya_dev/)**
