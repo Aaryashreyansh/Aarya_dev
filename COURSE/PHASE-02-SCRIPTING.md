@@ -55,3 +55,7 @@ Create a Python or Bash tool that:
 - [ ] Functions, loops, files, JSON and exceptions are used correctly.
 - [ ] A harmless script has been scheduled in a personal lab, or the platform limitation is documented.
 - [ ] The mini project has a README, sample input/output and tests.
+
+
+## Where to learn this phase
+See [Resources Directory](RESOURCES.md): Python → official Python Tutorial and standard library; Bash → GNU Bash manual; script quality → ShellCheck; small Python exercises → Exercism. Check platform compatibility before trying cron.
