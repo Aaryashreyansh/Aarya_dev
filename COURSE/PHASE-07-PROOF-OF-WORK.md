@@ -37,3 +37,7 @@ For each question answer in four parts: definition → why it matters → concre
 
 ## Final assessment
 A project is complete only when another person can follow the README, reproduce the result, run tests, understand the architecture and clean up the lab safely. A green contribution calendar is not a substitute for working evidence.
+
+
+## Where to learn this phase
+See [Resources Directory](RESOURCES.md) for project, interview and cheat-sheet references. Use the official docs for each technology as the source of truth, and cite the documentation/version you used in each project README.
