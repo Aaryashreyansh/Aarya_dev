@@ -38,3 +38,7 @@ Containerize the Phase 2 app, run it locally, then deploy it to a local kind/min
 - [ ] Local Kubernetes deployment reaches the expected state.
 - [ ] You can inspect logs/events and explain a failed Pod.
 - [ ] No credentials are stored in source, image or public manifests.
+
+
+## Where to learn this phase
+See [Resources Directory](RESOURCES.md): Docker → Docker Get Started and Compose quickstart; Kubernetes → official Kubernetes Basics tutorial; local cluster → kind or minikube documentation. Complete the beginner path before advanced configuration.
