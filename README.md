@@ -6,3 +6,7 @@ Start here: ROADMAP.md. Use only systems you own or are authorized to administer
 ## Interactive website
 
 Visit the [Aarya DevOps Academy](https://aaryashreyansh.github.io/Aarya_dev/) (after enabling GitHub Pages). See [GITHUB_PAGES.md](GITHUB_PAGES.md) for publishing instructions.
+
+## Complete detailed course
+
+Start at [COURSE/README.md](COURSE/README.md). It links seven phase-by-phase guides from Linux fundamentals through the capstone. Each guide includes ordered lessons, hands-on labs, exercises, exit checklists and safety notes.
