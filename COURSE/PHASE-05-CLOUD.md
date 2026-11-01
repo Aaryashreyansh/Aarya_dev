@@ -31,3 +31,7 @@ Document an architecture for a small app on AWS, estimate costs using current of
 - [ ] EC2, S3, VPC and RDS purposes can be explained.
 - [ ] Azure and GCP core resource models can be compared.
 - [ ] Lab teardown is verified, not merely assumed.
+
+
+## Where to learn this phase
+See [Resources Directory](RESOURCES.md): AWS → AWS Training and official service docs; Azure → Microsoft Learn; GCP → Google Cloud training. Use pricing calculators before labs and confirm account-owner permission. Training pages may include optional paid labs.
