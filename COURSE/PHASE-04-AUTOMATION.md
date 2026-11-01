@@ -28,3 +28,7 @@ Create a pipeline that checks out the project, runs tests, builds a Docker image
 - [ ] Terraform plan is reviewed before any lab apply.
 - [ ] Ansible playbook runs against an authorized test machine.
 - [ ] Pipeline logs show a successful test and image build.
+
+
+## Where to learn this phase
+See [Resources Directory](RESOURCES.md): GitHub Actions → official quickstart and Python CI tutorial; Jenkins → official tutorials; Terraform → HashiCorp tutorials; Ansible → official Getting Started guide. Keep credentials in approved secret stores.
