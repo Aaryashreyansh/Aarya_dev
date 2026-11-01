@@ -24,3 +24,7 @@ Add a monitoring dashboard to the Phase 3 app. Document each metric, what a norm
 - [ ] SQL joins and aggregations are practised.
 - [ ] SQL and NoSQL use cases can be compared.
 - [ ] Logs avoid secrets and unnecessary personal data.
+
+
+## Where to learn this phase
+See [Resources Directory](RESOURCES.md): Prometheus → official first-steps guide; Grafana → official learning hub; SQL → PostgreSQL tutorial and SQLBolt; MongoDB and Redis → their official documentation and learning pages.
